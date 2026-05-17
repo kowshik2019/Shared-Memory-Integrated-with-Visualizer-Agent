@@ -278,7 +278,6 @@ cd path/to/multi_agent_system
 **Windows (PowerShell):**
 ```powershell
 python -m venv .venv
-.venv\Scripts\Activate.ps1
 ```
 
 **Windows (Command Prompt):**
@@ -329,7 +328,6 @@ Rules:
 ```bash
 streamlit run app.py
 ```
-
 Open the URL Streamlit prints (usually http://localhost:8501).
 
 ### Step 7 — Test the Department Router
