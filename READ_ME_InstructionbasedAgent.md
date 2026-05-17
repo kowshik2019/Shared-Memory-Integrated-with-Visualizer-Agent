@@ -4,7 +4,6 @@ A production-grade multi-agent AI system that routes business instructions to th
 
 Built with **OpenAI**, **Streamlit**, and a custom **Router Agent** + **Shared Memory** architecture. No LangGraph or LangChain dependency — clean Python orchestration designed for clarity and extensibility.
 
----
 
 ## 📌 Project Description
 
