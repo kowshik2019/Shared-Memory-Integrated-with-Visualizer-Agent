@@ -448,3 +448,30 @@ Add a SQLite write in `router_agent()` after compilation. Store the full output 
 
 No LangGraph or LangChain dependency. The orchestration is pure Python, making it easy to understand, debug, and extend.
 
+<img width="1859" height="737" alt="image" src="https://github.com/user-attachments/assets/3ebbbbd5-2f23-4090-be4f-647a03c84bc7" />
+
+<img width="1908" height="854" alt="image" src="https://github.com/user-attachments/assets/d40da144-7b34-4b6b-8ef0-1b4d8c0160c5" />
+
+<img width="1877" height="839" alt="image" src="https://github.com/user-attachments/assets/8d65dd56-579b-4886-a3e0-844a4590b7fc" />
+
+<img width="1920" height="812" alt="image" src="https://github.com/user-attachments/assets/97387cf0-33ce-4c53-8f70-5f3d244ae4b3" />
+
+<img width="1903" height="836" alt="image" src="https://github.com/user-attachments/assets/1fb5455a-65e2-4e63-9cef-6be2517a72ef" />
+
+<img width="1375" height="743" alt="image" src="https://github.com/user-attachments/assets/93d1f1ef-058f-41ab-98ab-a751024715d3" />
+
+<img width="1464" height="708" alt="image" src="https://github.com/user-attachments/assets/d2be425c-0578-4b49-97cc-e44986151b5e" />
+
+<img width="1920" height="677" alt="image" src="https://github.com/user-attachments/assets/9ad77b56-f584-439a-add0-60de8cf7b4ae" />
+
+<img width="1919" height="698" alt="image" src="https://github.com/user-attachments/assets/e7137cc7-8879-4c1a-82a7-cf6e8a808581" />
+
+<img width="1917" height="804" alt="image" src="https://github.com/user-attachments/assets/6e2b20e6-f845-4125-8628-4d943168b246" />
+
+<img width="1437" height="790" alt="image" src="https://github.com/user-attachments/assets/fcc06a62-7c85-4c3a-a446-6422bd886891" />
+
+<img width="1919" height="778" alt="image" src="https://github.com/user-attachments/assets/f17fca9a-ce3f-414a-89e1-c9f271174eb7" />
+
+<img width="1920" height="798" alt="image" src="https://github.com/user-attachments/assets/f7e7fe0c-2dcb-4443-bd62-aa452e4e9418" />
+
+<img width="1915" height="728" alt="image" src="https://github.com/user-attachments/assets/510875f7-d797-4098-b075-cbca7973aa4b" />
