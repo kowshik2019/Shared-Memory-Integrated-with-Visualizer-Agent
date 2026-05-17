@@ -450,22 +450,3 @@ Add a SQLite write in `router_agent()` after compilation. Store the full output 
 
 No LangGraph or LangChain dependency. The orchestration is pure Python, making it easy to understand, debug, and extend.
 
----
-
-## 📝 License & Production Readiness
-
-This is a learning and demonstration project. Before deploying to production, add:
-
-- Rate limiting on OpenAI calls (per-user and global)
-- Authentication on the Streamlit UI
-- Input sanitization and prompt-injection guardrails
-- Logging and observability (e.g., Langfuse, OpenTelemetry)
-- Ticket/result persistence (database)
-- Cost monitoring and per-request token tracking
-- Error retry logic with exponential backoff
-- Unit tests for each agent and the router
-- Load testing for concurrent requests (SharedMemory is thread-safe but the OpenAI calls are serial)
-
----
-
-*Built with care. Agents are strongest when they collaborate.* 🧠🤝
