@@ -1,0 +1,16 @@
+# =============================================================================
+# Multi-Agent Orchestration System
+# Python dependencies
+# =============================================================================
+# Install:   pip install -r requirements.txt
+# Tested on: Python 3.10, 3.11, 3.12
+# -----------------------------------------------------------------------------
+
+# OpenAI Python SDK — powers every agent's LLM calls (JSON mode)
+openai>=1.40.0
+
+# Streamlit — interactive web UI with two tabs (Department Router + Recruitment)
+streamlit>=1.36.0
+
+# python-dotenv — loads OPENAI_API_KEY from .env (override=True for safety)
+python-dotenv>=1.0.1
