@@ -1,7 +1,7 @@
 """
 agents.py
 ---------
-All agent definitions for the Multi-Agent Orchestration System.
+All the agent definitions for the Multi-Agent Orchestration System.
 
 Three layers of agents:
 
